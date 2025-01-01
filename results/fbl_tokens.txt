@@ -1,0 +1,11 @@
+{
+    "strings": {
+        "FOGBOUND_SCENEDEF_NAME_TOKEN": "被雾笼罩的泻湖",
+        "FOGBOUND_SCENEDEF_SUBTITLE_TOKEN": "幽暗的浅滩",
+        "BAZAAR_SEER_FBLSCENE": "<style=cWorldEvent>你梦见窒息。</style>",
+        "FOGBOUND_SCENEDEF_LORE_TOKEN": "<style=cMono>\n欢迎来到DataScraper （v3.1.53 - beta分支）\n$刮内存…完成了。\n美元解决……完成了。\n$梳理相关数据…完成了。\n完成了!\n输出本地音频转录…</style>\n我再也受不了了。\n\n自从我在这里降落后，我就对遥远的海洋产生了一种奇怪的吸引力。我看不清灰暗的地平线，也看不清隐约出现的峭壁，这些峭壁似乎每天都在向我逼近。我知道我不可能去那里，我的世界被限制在这个生态泡沫里，这让我的灵魂被吸走了……我需要找到一条出去的路……\n\n我需要终于看到是什么在呼唤我的声音，欺骗我疲惫的眼睛，每晚用噩梦侵入我的大脑。它快把我逼疯了，让我潜水，跳进水里游一会儿，放松一下，享受在这里的时光。我不能屈服。我不知道什么样的东西会让一个局外人放松警惕……\n\n我甚至看不见自己在水中的倒影……\n只有那些神秘的深红色的光……<style=cMono>\n本地音频转录完成。</style>\r\n",
+        "BONE_FOGBOUND_NAME": "汉克",
+        "UNLOCKABLE_LOG_STAGES_FBLSCENE": "环境日志：雾湖",
+        "FBL_FAMILY_BLIND": "<style=cWorldEvent>[警告]你已经入侵了猖獗的繁殖地…</style>"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "strings": {
+        "EXTRACHALLENGESHRINES_SHRINE_CROWN_NAME": "天空神坛",
+        "EXTRACHALLENGESHRINES_SHRINE_CROWN_CONTEXT": "向天坛祈祷",
+        "EXTRACHALLENGESHRINES_SHRINE_CROWN_USE_MESSAGE_2P": "<style=cShrine>你邀请了来自天空的挑战…</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_CROWN_USE_MESSAGE": "<style=cShrine>b{0}邀请了天空的挑战…</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_CROWN_BEGIN_TRIAL": "<style=cShrine>让挑战的天空…开始吧!</style>",
+        "EXTRACHALLENGESHRINES_SHRINE_ROCK_NAME": "地球的圣地",
+        "EXTRACHALLENGESHRINES_SHRINE_ROCK_CONTEXT": "向大地神坛祈祷",
+        "EXTRACHALLENGESHRINES_SHRINE_ROCK_USE_MESSAGE_2P": "<style=cShrine>你已经邀请了地球的挑战……</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_ROCK_USE_MESSAGE": "<style=cShrine>b{0}邀请了地球的挑战…</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_ROCK_BEGIN_TRIAL": "<style=cShrine>让地球的挑战…开始吧!</style>",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_NAME": "风之圣地",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_CONTEXT": "向风之神殿祈祷",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_INTERACTION_HEADER": "你的愿景是什么？",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_USE_MESSAGE_2P": "<style=cShrine>你已经邀请了风的挑战…</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_USE_MESSAGE": "<style=cShrine>b{0}邀请了风的挑战…</color>",
+        "EXTRACHALLENGESHRINES_SHRINE_EYE_BEGIN_TRIAL": "<style=cShrine>让风的挑战…开始吧!</style>"
+    }
+}
